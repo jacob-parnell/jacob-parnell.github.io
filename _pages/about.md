@@ -6,7 +6,7 @@ subtitle: <a href="http://rozettatechnology.com">RoZetta Technology</a> - <a hre
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.png
   image_circular: true # crops the image to make it circular
 
 news: true # includes a list of news items
