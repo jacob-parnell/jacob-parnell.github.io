@@ -15,3 +15,5 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a Data Scientist and NLP Researcher at RoZetta Technology, and currently serve as an Adjunct Research Fellow at the University of Technology Sydney.
+
+I have a statistical background in Astrophysics and my research focus to date currently specialises in Natural Language Processing and Machine Learning. Currently, my research interests extend to the intersection of quantum mechanics and machine learning.
