@@ -5,6 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am happy to announce that 2 of our research papers have been accepted to appear at ACL-IJCNLP 2021; one to the main conference and one to the Workshop on Structured Prediction in NLP.
-- <a href="https://aclanthology.org/2021.acl-short.115/">BERTTune: Fine-Tuning Neural Machine Translation with BERTScore</a>
-- <a href="https://aclanthology.org/2021.spnlp-1.1/">RewardsOfSum: Exploring Reinforcement Learning Rewards for Summarisation</a>
+I am happy to announce that 2 of our research papers have been accepted to appear at ACL-IJCNLP 2021. <a href="https://aclanthology.org/2021.acl-short.115/">BERTTune: Fine-Tuning Neural Machine Translation with BERTScore</a> is set to appear at the main conference and <a href="https://aclanthology.org/2021.spnlp-1.1/">RewardsOfSum: Exploring Reinforcement Learning Rewards for Summarisation</a> to the Workshop on Structured Prediction in NLP.
