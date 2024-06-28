@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2017-01-01 15:59:00-0400
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement.
+Excited to start a new six-week research project, looking at galaxies inside intergalactic waves, at Macquarie University with [Dr. Matt Owers](https://scholar.google.com.au/citations?user=-UsNwCwAAAAJ&hl=en) and the Australian Astronomical Observatory.
